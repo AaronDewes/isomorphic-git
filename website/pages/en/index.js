@@ -142,7 +142,7 @@ const Features = props => (
             height="64"
           />
           <img
-            src="https://upload.wikimedia.org/wikipedia/commons/8/82/Android_logo_2019.svg"
+            src="https://upload.wikimedia.org/wikipedia/commons/3/31/Android_robot_head.svg"
             alt=""
             width="64"
             height="64"
